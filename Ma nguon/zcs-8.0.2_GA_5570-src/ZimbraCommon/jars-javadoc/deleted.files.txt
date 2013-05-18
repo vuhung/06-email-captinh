@@ -1,0 +1,27 @@
+Folder PATH listing for volume ssd-work
+Volume serial number is 0000-1A21
+D:.
+    apache-jsieve-0.4-javadoc.jar
+    apache-log4j-extras-1.0-javadoc.jar
+    commons-cli-1.2-javadoc.zip
+    commons-dbcp-1.4-javadoc.jar
+    commons-fileupload-1.2.2-javadoc.zip
+    commons-httpclient-3.1-javadoc.zip
+    commons-pool-1.6-javadoc.jar
+    deleted.files.txt
+    guava-10.0.1-javadoc.jar
+    javamail-1.4.5-javadoc.zip
+    jcs-1.3-javadoc.zip
+    junit-4.4-javadoc.zip
+    libidn-1.24-javadoc.zip
+    log4j-1.2.16-javadoc.jar
+    memcached-2.6-javadoc.jar
+    smack-3.2.1-javadoc.zip
+    sqlite-jdbc-3.6.20.1-javadoc.jar
+    syslog4j-0.9.46-doc.zip
+    tnef-1.6.0-javadoc.zip
+    unboundid-ldapsdk-2.3.1-javadoc.zip
+    zookeeper-3.4.3-javadoc.jar
+    
+No subfolders exist 
+
