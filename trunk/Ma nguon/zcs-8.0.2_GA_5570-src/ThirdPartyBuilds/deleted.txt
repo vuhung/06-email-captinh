@@ -1,0 +1,106 @@
+Folder PATH listing for volume ssd-work
+Volume serial number is 0000-1A21
+D:.
+„   deleted.txt
+„   
+„¥„ŸCentOS6_64
+„   „¥„Ÿaltermime
+„   „       altermime-0.3.10.tgz
+„   „       
+„   „¥„Ÿapache-httpd
+„   „       httpd-2.4.3.tgz
+„   „       
+„   „¥„Ÿaspell
+„   „       aspell-0.60.6.1.tgz
+„   „       
+„   „¥„Ÿbdb
+„   „       bdb-5.2.36.tgz
+„   „       
+„   „¥„Ÿclamav
+„   „       clamav-0.97.6.tgz
+„   „       
+„   „¥„Ÿcurl
+„   „       curl-7.25.0.tgz
+„   „       
+„   „¥„Ÿcyrus-sasl
+„   „       cyrus-sasl-2.1.25.4z.tgz
+„   „       
+„   „¥„Ÿdspam
+„   „       dspam-3.10.1.tgz
+„   „       
+„   „¥„Ÿheimdal
+„   „       heimdal-1.5.2.tgz
+„   „       
+„   „¥„Ÿlibmemcached
+„   „       libmemcached-1.0.6.tgz
+„   „       
+„   „¥„Ÿlibtool
+„   „       libtool-2.2.6b.tgz
+„   „       
+„   „¥„Ÿlibxml2
+„   „       libxml2-2.7.8.tgz
+„   „       
+„   „¥„Ÿmemcached
+„   „       memcached-1.4.10.tgz
+„   „       
+„   „¥„Ÿmysql
+„   „       mysql-libs-standard-5.5.28-pc-linux-gnu-i686-glibc23.tgz
+„   „       mysql-standard-5.5.28-pc-linux-gnu-i686-glibc23.tar.gz
+„   „       
+„   „¥„Ÿnginx
+„   „       nginx-1.2.0-zimbra.tgz
+„   „       
+„   „¥„Ÿopendkim
+„   „       opendkim-2.7.1.tgz
+„   „       
+„   „¥„Ÿopenldap
+„   „       openldap-2.4.33.3z.tgz
+„   „       openldap-libs-2.4.33.3z.tgz
+„   „       
+„   „¥„Ÿopenssl
+„   „       openssl-1.0.1c.tgz
+„   „       
+„   „¥„Ÿperl
+„   „       perlbin.tgz
+„   „       perllib.tgz
+„   „       
+„   „¥„Ÿphp
+„   „       php-5.4.6.tgz
+„   „       
+„   „¥„Ÿpostfix
+„   „       postfix-2.10-20121007.2z.tgz
+„   „       
+„   „¥„Ÿrrdtool
+„   „       rrdtool-1.2.30.tar.gz
+„   „       
+„   „¥„Ÿrsync
+„   „       rsync-3.0.9.tgz
+„   „       
+„   „¥„Ÿsendmail
+„   „       sendmail-8.14.5.tgz
+„   „       
+„   „¥„Ÿsnmp
+„   „       net-snmp-5.7.1.tgz
+„   „       
+„   „¥„Ÿtcmalloc
+„   „       tcmalloc-2.0.tgz
+„   „       
+„   „¤„Ÿzeromq
+„           zeromq-3.2.0.tgz
+„           
+„¤„Ÿx86_64
+    „¤„Ÿjava
+        „   jdk1.6.0_38.tgz.deleted.txt
+        „   
+        „¥„Ÿjce
+        „   „   local_policy.jar
+        „   „   US_export_policy.jar
+        „   „   
+        „   „¤„ŸUnlimitedJCEPolicy7
+        „           local_policy.jar
+        „           US_export_policy.jar
+        „           
+        „¥„Ÿjunixsocket
+        „       libjunixsocket-linux-1.5-amd64.so
+        „       
+        „¤„Ÿjunixsocketlibjunixsocket-linux-1.5-amd64.so

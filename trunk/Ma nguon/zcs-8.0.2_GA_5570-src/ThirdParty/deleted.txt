@@ -1,0 +1,1907 @@
+Folder PATH listing for volume ssd-work
+Volume serial number is 0000-1A21
+D:.
+Да  beta_versions.def
+Да  beta_versions.sh
+Да  buildThirdParty.sh
+Да  deleted.txt
+Да  Makefile
+Да  versions.def
+Да  versions.sh
+Да  zmcheck.pl
+Да  
+ДеДЯaltermime
+Да  Да  Makefile
+Да  Да  
+Да  ДеДЯpatches
+Да  Да      fix-unused-but-set-variables.patch
+Да  Да      fix_snprintf.patch
+Да  Да      qpe.patch
+Да  Да      
+Да  ДдДЯsrc
+Да          altermime-0.3.10.tar.gz
+Да          
+ДеДЯamavisd
+Да  ДеДЯamavisd-new-2.7.0
+Да  Да  Да  AAAREADME.first
+Да  Да  Да  AMAVIS-MIB.txt
+Да  Да  Да  amavisd
+Да  Да  Да  amavisd-agent
+Да  Да  Да  amavisd-custom.conf
+Да  Да  Да  amavisd-nanny
+Да  Да  Да  amavisd-new-courier.patch
+Да  Да  Да  amavisd-new-qmqpqq.patch
+Да  Да  Да  amavisd-new.spec
+Да  Да  Да  amavisd-release
+Да  Да  Да  amavisd-signer
+Да  Да  Да  amavisd-snmp-subagent
+Да  Да  Да  amavisd-submit
+Да  Да  Да  amavisd.conf
+Да  Да  Да  amavisd.conf-default
+Да  Да  Да  amavisd.orig
+Да  Да  Да  amavisd_init.sh
+Да  Да  Да  INSTALL
+Да  Да  Да  JpegTester.pm
+Да  Да  Да  LDAP.ldif
+Да  Да  Да  LDAP.schema
+Да  Да  Да  LICENSE
+Да  Да  Да  MANIFEST
+Да  Да  Да  p0f-analyzer.pl
+Да  Да  Да  p0f-patch
+Да  Да  Да  RELEASE_NOTES
+Да  Да  Да  TODO
+Да  Да  Да  
+Да  Да  ДеДЯREADME_FILES
+Да  Да  Да  Да  amavisd-new-docs.html
+Да  Да  Да  Да  README.banned
+Да  Да  Да  Да  README.chroot
+Да  Да  Да  Да  README.contributed
+Да  Да  Да  Да  README.courier
+Да  Да  Да  Да  README.courier-old
+Да  Да  Да  Да  README.customize
+Да  Да  Да  Да  README.exim_v3
+Да  Да  Да  Да  README.exim_v3_app
+Да  Да  Да  Да  README.exim_v4
+Да  Да  Да  Да  README.exim_v4_app
+Да  Да  Да  Да  README.exim_v4_app2
+Да  Да  Да  Да  README.ldap
+Да  Да  Да  Да  README.lookups
+Да  Да  Да  Да  README.milter
+Да  Да  Да  Да  README.old.scanners
+Да  Да  Да  Да  README.performance
+Да  Да  Да  Да  README.policy-on-notifications
+Да  Да  Да  Да  README.postfix
+Да  Да  Да  Да  README.postfix.html
+Да  Да  Да  Да  README.protocol
+Да  Да  Да  Да  README.sendmail
+Да  Да  Да  Да  README.sendmail-dual
+Да  Да  Да  Да  README.sendmail-dual.old
+Да  Да  Да  Да  README.sql
+Да  Да  Да  Да  README.sql-mysql
+Да  Да  Да  Да  README.sql-pg
+Да  Да  Да  Да  screen.css
+Да  Да  Да  Да  
+Да  Да  Да  ДдДЯimages
+Да  Да  Да      Да  blank.png
+Да  Да  Да      Да  caution.png
+Да  Да  Да      Да  draft.png
+Да  Да  Да      Да  home.png
+Да  Да  Да      Да  important.png
+Да  Да  Да      Да  next.png
+Да  Да  Да      Да  note.png
+Да  Да  Да      Да  prev.png
+Да  Да  Да      Да  tip.png
+Да  Да  Да      Да  toc-blank.png
+Да  Да  Да      Да  toc-minus.png
+Да  Да  Да      Да  toc-plus.png
+Да  Да  Да      Да  up.png
+Да  Да  Да      Да  warning.png
+Да  Да  Да      Да  
+Да  Да  Да      ДдДЯcallouts
+Да  Да  Да              1.png
+Да  Да  Да              10.png
+Да  Да  Да              11.png
+Да  Да  Да              12.png
+Да  Да  Да              13.png
+Да  Да  Да              14.png
+Да  Да  Да              15.png
+Да  Да  Да              2.png
+Да  Да  Да              3.png
+Да  Да  Да              4.png
+Да  Да  Да              5.png
+Да  Да  Да              6.png
+Да  Да  Да              7.png
+Да  Да  Да              8.png
+Да  Да  Да              9.png
+Да  Да  Да              
+Да  Да  ДдДЯtest-messages
+Да  Да          README
+Да  Да          sample.tar.gz.compl
+Да  Да          
+Да  ДеДЯamavisd-new-2.8.0
+Да  Да  Да  AAAREADME.first
+Да  Да  Да  amavis-mc
+Да  Да  Да  amavis-mc_init.sh
+Да  Да  Да  AMAVIS-MIB.txt
+Да  Да  Да  amavis-services
+Да  Да  Да  amavisd
+Да  Да  Да  amavisd-agent
+Да  Да  Да  amavisd-custom.conf
+Да  Да  Да  amavisd-nanny
+Да  Да  Да  amavisd-new-courier.patch
+Да  Да  Да  amavisd-new-qmqpqq.patch
+Да  Да  Да  amavisd-new.spec
+Да  Да  Да  amavisd-release
+Да  Да  Да  amavisd-signer
+Да  Да  Да  amavisd-snmp-subagent
+Да  Да  Да  amavisd-snmp-subagent-zmq
+Да  Да  Да  amavisd-status
+Да  Да  Да  amavisd-submit
+Да  Да  Да  amavisd.conf
+Да  Да  Да  amavisd.conf-default
+Да  Да  Да  amavisd.orig
+Да  Да  Да  amavisd_init.sh
+Да  Да  Да  INSTALL
+Да  Да  Да  JpegTester.pm
+Да  Да  Да  LDAP.ldif
+Да  Да  Да  LDAP.schema
+Да  Да  Да  LICENSE
+Да  Да  Да  MANIFEST
+Да  Да  Да  p0f-analyzer.pl
+Да  Да  Да  p0f-patch
+Да  Да  Да  RELEASE_NOTES
+Да  Да  Да  TODO
+Да  Да  Да  
+Да  Да  ДеДЯREADME_FILES
+Да  Да  Да  Да  amavisd-new-docs.html
+Да  Да  Да  Да  README.banned
+Да  Да  Да  Да  README.chroot
+Да  Да  Да  Да  README.contributed
+Да  Да  Да  Да  README.courier
+Да  Да  Да  Да  README.courier-old
+Да  Да  Да  Да  README.customize
+Да  Да  Да  Да  README.exim_v3
+Да  Да  Да  Да  README.exim_v3_app
+Да  Да  Да  Да  README.exim_v4
+Да  Да  Да  Да  README.exim_v4_app
+Да  Да  Да  Да  README.exim_v4_app2
+Да  Да  Да  Да  README.ldap
+Да  Да  Да  Да  README.lookups
+Да  Да  Да  Да  README.milter
+Да  Да  Да  Да  README.old.scanners
+Да  Да  Да  Да  README.performance
+Да  Да  Да  Да  README.policy-on-notifications
+Да  Да  Да  Да  README.postfix
+Да  Да  Да  Да  README.postfix.html
+Да  Да  Да  Да  README.protocol
+Да  Да  Да  Да  README.sendmail
+Да  Да  Да  Да  README.sendmail-dual
+Да  Да  Да  Да  README.sendmail-dual.old
+Да  Да  Да  Да  README.sql
+Да  Да  Да  Да  README.sql-mysql
+Да  Да  Да  Да  README.sql-pg
+Да  Да  Да  Да  screen.css
+Да  Да  Да  Да  
+Да  Да  Да  ДдДЯimages
+Да  Да  Да      Да  blank.png
+Да  Да  Да      Да  caution.png
+Да  Да  Да      Да  draft.png
+Да  Да  Да      Да  home.png
+Да  Да  Да      Да  important.png
+Да  Да  Да      Да  next.png
+Да  Да  Да      Да  note.png
+Да  Да  Да      Да  prev.png
+Да  Да  Да      Да  tip.png
+Да  Да  Да      Да  toc-blank.png
+Да  Да  Да      Да  toc-minus.png
+Да  Да  Да      Да  toc-plus.png
+Да  Да  Да      Да  up.png
+Да  Да  Да      Да  warning.png
+Да  Да  Да      Да  
+Да  Да  Да      ДдДЯcallouts
+Да  Да  Да              1.png
+Да  Да  Да              10.png
+Да  Да  Да              11.png
+Да  Да  Да              12.png
+Да  Да  Да              13.png
+Да  Да  Да              14.png
+Да  Да  Да              15.png
+Да  Да  Да              2.png
+Да  Да  Да              3.png
+Да  Да  Да              4.png
+Да  Да  Да              5.png
+Да  Да  Да              6.png
+Да  Да  Да              7.png
+Да  Да  Да              8.png
+Да  Да  Да              9.png
+Да  Да  Да              
+Да  Да  ДдДЯtest-messages
+Да  Да          README
+Да  Да          sample.tar.gz.compl
+Да  Да          
+Да  ДдДЯsrc
+Да          amavisd-new-2.7.0.tar.gz
+Да          amavisd-new-2.8.0.tar.gz
+Да          
+ДеДЯapache-httpd
+Да  Да  Makefile
+Да  Да  
+Да  ДдДЯsrc
+Да          apr-1.4.6.tar.bz2
+Да          apr-util-1.4.1.tar.bz2
+Да          httpd-2.4.3.tar.bz2
+Да          
+ДеДЯaspell
+Да  Да  Makefile
+Да  Да  
+Да  ДдДЯsrc
+Да          aspell-0.60.6.1.tar.gz
+Да          aspell-fr-0.50-3.tar.bz2
+Да          aspell-nl-0.50-2.tar.bz2
+Да          aspell-sv-0.51-0.tar.bz2
+Да          aspell5-da-1.4.42-1.tar.bz2
+Да          aspell6-ar-1.2-0.tar.bz2
+Да          aspell6-de-20030222-1.tar.bz2
+Да          aspell6-en-7.1-0.tar.bz2
+Да          aspell6-es-1.11-2.tar.bz2
+Да          aspell6-hi-0.02-0.tar.bz2
+Да          aspell6-hu-0.99.4.2-0.tar.bz2
+Да          aspell6-it-2.2_20050523-0.tar.bz2
+Да          aspell6-pl-6.0_20061121-0.tar.bz2
+Да          aspell6-pt_BR-20090702-0.tar.bz2
+Да          aspell6-ru-0.99f7-1.tar.bz2
+Да          
+ДеДЯbdb
+Да  Да  Makefile
+Да  Да  
+Да  ДдДЯsrc
+Да          db-5.2.36.tar.gz
+Да          
+ДеДЯclamav
+Да  Да  Makefile
+Да  Да  
+Да  ДеДЯpatches
+Да  Да      fix-configure-963.patch
+Да  Да      
+Да  ДдДЯsrc
+Да          clamav-0.97.6.tar.gz
+Да          
+ДеДЯcpan
+Да      Archive-Tar-1.88.tar.gz
+Да      Archive-Zip-1.30.tar.gz
+Да      Bit-Vector-7.2.tar.gz
+Да      Cache-FastMmap-1.40.tar.gz
+Да      Carp-1.26.tar.gz
+Да      Carp-Clan-6.04.tar.gz
+Да      Class-Inspector-1.27.tar.gz
+Да      Compress-Raw-Bzip2-2.052.tar.gz
+Да      Compress-Raw-Zlib-2.054.tar.gz
+Да      Config-IniFiles-2.77.tar.gz
+Да      Config-Properties-1.73.tar.gz
+Да      Convert-ASN1-0.26.tar.gz
+Да      Convert-BinHex-1.119.tar.gz
+Да      Convert-TNEF-0.17.tar.gz
+Да      Convert-UUlib-1.4.tar.gz
+Да      CPAN-Meta-2.120921.tar.gz
+Да      CPAN-Meta-Requirements-2.122.tar.gz
+Да      CPAN-Meta-YAML-0.008.tar.gz
+Да      Crypt-SaltedHash-0.05.tar.gz
+Да      Data-UUID-1.217.tar.gz
+Да      Date-Calc-6.3.tar.gz
+Да      Date-Manip-5.56.tar.gz
+Да      DBD-SQLite-1.37.tar.gz
+Да      DBI-1.622.tar.gz
+Да      DB_File-1.826.tar.gz
+Да      Devel-Symdump-2.08.tar.gz
+Да      Device-SerialPort-1.04.tar.gz
+Да      Digest-HMAC-1.03.tar.gz
+Да      Digest-SHA-5.71.tar.gz
+Да      Digest-SHA1-2.13.tar.gz
+Да      Encode-Locale-1.03.tar.gz
+Да      Error-0.17018.tar.gz
+Да      ExtUtils-CBuilder-0.280205.tar.gz
+Да      ExtUtils-Constant-0.23.tar.gz
+Да      ExtUtils-MakeMaker-6.62.tar.gz
+Да      ExtUtils-Manifest-1.60.tar.gz
+Да      ExtUtils-ParseXS-3.03_03.tar.gz
+Да      File-Copy-Recursive-0.38.tar.gz
+Да      File-Grep-0.02.tar.gz
+Да      File-Listing-6.04.tar.gz
+Да      File-Tail-0.99.3.tar.gz
+Да      File-Temp-0.22.tar.gz
+Да      Geography-Countries-2009041301.tar.gz
+Да      Getopt-Easy-0.1.tar.gz
+Да      HTML-Parser-3.69.tar.gz
+Да      HTML-Tagset-3.20.tar.gz
+Да      HTTP-Cookies-6.01.tar.gz
+Да      HTTP-Daemon-6.01.tar.gz
+Да      HTTP-Date-6.02.tar.gz
+Да      HTTP-Message-6.03.tar.gz
+Да      HTTP-Negotiate-6.01.tar.gz
+Да      HTTP-Parser-0.06.tar.gz
+Да      IO-1.25.tar.gz
+Да      IO-Compress-2.052.tar.gz
+Да      IO-Socket-INET6-2.69.tar.gz
+Да      IO-Socket-IP-0.16.tar.gz
+Да      IO-Socket-SSL-1.76.tar.gz
+Да      IO-stringy-2.110.tar.gz
+Да      IO-Zlib-1.10.tar.gz
+Да      IP-Country-2.27.tar.gz
+Да      IPC-Cmd-0.78.tar.gz
+Да      JSON-PP-2.27200.tar.gz
+Да      JSON-PP-Compat5006-1.09.tar.gz
+Да      libnet-1.22.tar.gz
+Да      libwww-perl-6.04.tar.gz
+Да      List-Compare-0.37.tar.gz
+Да      List-MoreUtils-0.33.tar.gz
+Да      Locale-Maketext-Simple-0.21.tar.gz
+Да      LWP-MediaTypes-6.02.tar.gz
+Да      LWP-Protocol-https-6.03.tar.gz
+Да      Mail-DKIM-0.39.tar.gz
+Да      MailTools-2.09.tar.gz
+Да      MIME-Lite-2.117.tar.gz
+Да      MIME-tools-5.502.tar.gz
+Да      Module-Build-0.3607.tar.gz
+Да      Module-Build-0.4001.tar.gz
+Да      Module-CoreList-2.68.tar.gz
+Да      Module-Load-0.22.tar.gz
+Да      Module-Load-Conditional-0.50.tar.gz
+Да      Mozilla-CA-20120309.tar.gz
+Да      Net-DNS-0.68.tar.gz
+Да      Net-DNS-Resolver-Programmable-v0.003.tar.gz
+Да      Net-HTTP-6.03.tar.gz
+Да      Net-IP-1.25.tar.gz
+Да      Net-Telnet-3.03.tar.gz
+Да      NetAddr-IP-4.062.tar.gz
+Да      Package-Constants-0.02.tar.gz
+Да      Parallel-ForkManager-0.7.9.tar.gz
+Да      Params-Check-0.36.tar.gz
+Да      Parse-CPAN-Meta-1.4404.tar.gz
+Да      Perl-OSType-1.002.tar.gz
+Да      Pod-Coverage-0.22.tar.gz
+Да      Pod-Escapes-1.04.tar.gz
+Да      Pod-Simple-3.22.tar.gz
+Да      Proc-ProcessTable-0.45.tar.gz
+Да      Scalar-List-Utils-1.25.tar.gz
+Да      SOAP-Lite-0.714.tar.gz
+Да      Socket-2.002.tar.gz
+Да      Socket6-0.23.tar.gz
+Да      Storable-2.35.tar.gz
+Да      Sub-Uplevel-0.24.tar.gz
+Да      Task-Weaken-1.04.tar.gz
+Да      Test-Deep-0.110.tar.gz
+Да      Test-Exception-0.31.tar.gz
+Да      Test-Harness-3.25.tar.gz
+Да      Test-NoWarnings-1.04.tar.gz
+Да      Test-Pod-1.45.tar.gz
+Да      Test-Pod-Coverage-1.08.tar.gz
+Да      Test-Simple-0.98.tar.gz
+Да      Test-Tester-0.108.tar.gz
+Да      Test-Warn-0.24.tar.gz
+Да      Time-HiRes-1.9725.tar.gz
+Да      TimeDate-1.20.tar.gz
+Да      Tree-DAG_Node-1.06.tar.gz
+Да      Unix-Syslog-1.1.tar.gz
+Да      URI-1.60.tar.gz
+Да      version-0.99.tar.gz
+Да      Version-Requirements-0.101022.tar.gz
+Да      WWW-RobotRules-6.02.tar.gz
+Да      XML-NamespaceSupport-1.11.tar.gz
+Да      XML-SAX-0.99.tar.gz
+Да      XML-SAX-Base-1.04.tar.gz
+Да      XML-SAX-Base-1.08.tar.gz
+Да      XML-SAX-Expat-0.40.tar.gz
+Да      XML-Simple-2.20.tar.gz
+Да      
+ДеДЯcurl
+Да  Да  Makefile
+Да  Да  
+Да  ДеДЯpatches
+Да  Да      krb5-7200.patch
+Да  Да      lwp-fix.patch
+Да  Да      
+Да  ДдДЯsrc
+Да          curl-7.25.0.tar.gz
+Да          
+ДеДЯcyrus-sasl
+Да  Да  Makefile
+Да  Да  README
+Да  Да  zimbra-cyrus-sasl-build.sh
+Да  Да  
+Да  ДеДЯpatches
+Да  Да      auxprop.patch
+Да  Да      gcc-fix.patch
+Да  Да      gssapi.patch
+Да  Да      heimdal-build.patch
+Да  Да      sasl-auth-zimbra-2.1.25.patch
+Да  Да      sasl-auth-zimbra.patch
+Да  Да      sasl-darwin.patch
+Да  Да      sasl-link-order.patch
+Да  Да      saslauthd-conf.patch
+Да  Да      
+Да  ДдДЯsrc
+Да          cyrus-sasl-2.1.25.tar.gz
+Да          
+ДеДЯdspam
+Да  Да  Makefile
+Да  Да  
+Да  ДеДЯpatches
+Да  Да      mac.patch
+Да  Да      
+Да  ДдДЯsrc
+Да          dspam-3.10.1.tar.gz
+Да          
+ДеДЯfirefox-nss
+Да  ДдДЯsrc
+Да          firefox-nss-4.0.1.tgz
+Да          
+ДеДЯheimdal
+Да  Да  Makefile
+Да  Да  
+Да  ДеДЯpatches
+Да  Да      mac.patch
+Да  Да      openssl1x.patch
+Да  Да      
+Да  ДдДЯsrc
+Да          heimdal-1.5.1.tar.gz
+Да          heimdal-1.5.2.tar.gz
+Да          
+ДеДЯjetty
+Да      build.xml
+Да      jetty-6.1.22.z6.tar.gz
+Да      jetty-distribution-7.6.2.z2.tar.gz
+Да      jetty-distribution-7.6.2.z4.tar.gz
+Да      
+ДеДЯlibmemcached
+Да  Да  Makefile
+Да  Да  
+Да  ДдДЯsrc
+Да          libmemcached-1.0.6.tar.gz
+Да          
+ДеДЯlibtool
+Да  Да  Makefile
+Да  Да  
+Да  ДдДЯsrc
+Да          libtool-2.2.6b.tar.gz
+Да          
+ДеДЯlibxml2
+Да  Да  Makefile
+Да  Да  
+Да  ДеДЯpatches
+Да  Да      libxml2-security.patch
+Да  Да      libxml2-vs2010.patch
+Да  Да      
+Да  ДдДЯsrc
+Да          libxml2-2.7.8.tar.gz
+Да          
+ДеДЯmemcached
+Да  Да  Makefile
+Да  Да  
+Да  ДеДЯpatches
+Да  Да      issue222.patch
+Да  Да      
+Да  ДдДЯsrc
+Да          libevent-2.0.16-stable.tar.gz
+Да          memcached-1.4.10.tar.gz
+Да          
+ДеДЯmrtg
+Да  Да  mrtg-2.10.15.tar.gz
+Да  Да  
+Да  ДдДЯbuilds
+Да          mrtg-2.10.15.tgz
+Да          
+ДеДЯmysql
+Да  Да  Makefile
+Да  Да  
+Да  ДеДЯpatches
+Да  Да      apple-lion.patch
+Да  Да      apple-runpath.patch
+Да  Да      atomic.patch
+Да  Да      openssl.patch
+Да  Да      
+Да  ДдДЯsrc
+Да          mysql-5.5.28.tar.gz
+Да          
+ДеДЯnginx
+Да  Да  Makefile
+Да  Да  Makefile.0537
+Да  Да  README
+Да  Да  
+Да  ДеДЯdocs
+Да  Да      BUILDING
+Да  Да      CACHE
+Да  Да      CONFIGURING.TXT
+Да  Да      DESIGN
+Да  Да      HTTP
+Да  Да      IMAP-CAPA-REFERENCE
+Да  Да      IMPLEMENTATION
+Да  Да      MEMCACHE-PROTOCOL
+Да  Да      POP3-EXTN-REFERENCE
+Да  Да      PORTING
+Да  Да      ROUTE-KEYING
+Да  Да      RUNNING
+Да  Да      SCALING
+Да  Да      SETUP.TXT
+Да  Да      SUPPORTED
+Да  Да      TESTING
+Да  Да      
+Да  ДеДЯnginx-0.5.37-zimbra
+Да  Да  Да  CHANGES
+Да  Да  Да  CHANGES.ru
+Да  Да  Да  configure
+Да  Да  Да  LICENSE
+Да  Да  Да  README
+Да  Да  Да  
+Да  Да  ДеДЯauto
+Да  Да  Да  Да  define
+Да  Да  Да  Да  endianess
+Да  Да  Да  Да  feature
+Да  Да  Да  Да  have
+Да  Да  Да  Да  have_headers
+Да  Да  Да  Да  headers
+Да  Да  Да  Да  include
+Да  Да  Да  Да  init
+Да  Да  Да  Да  install
+Да  Да  Да  Да  make
+Да  Да  Да  Да  modules
+Да  Да  Да  Да  nohave
+Да  Да  Да  Да  options
+Да  Да  Да  Да  sources
+Да  Да  Да  Да  stubs
+Да  Да  Да  Да  summary
+Да  Да  Да  Да  threads
+Да  Да  Да  Да  unix
+Да  Да  Да  Да  
+Да  Да  Да  ДеДЯcc
+Да  Да  Да  Да      acc
+Да  Да  Да  Да      bcc
+Да  Да  Да  Да      ccc
+Да  Да  Да  Да      conf
+Да  Да  Да  Да      gcc
+Да  Да  Да  Да      icc
+Да  Да  Да  Да      msvc
+Да  Да  Да  Да      name
+Да  Да  Да  Да      owc
+Да  Да  Да  Да      sunc
+Да  Да  Да  Да      
+Да  Да  Да  ДеДЯlib
+Да  Да  Да  Да  Да  conf
+Да  Да  Да  Да  Да  make
+Да  Да  Да  Да  Да  test
+Да  Да  Да  Да  Да  
+Да  Да  Да  Да  ДеДЯmd5
+Да  Да  Да  Да  Да      conf
+Да  Да  Да  Да  Да      make
+Да  Да  Да  Да  Да      makefile.bcc
+Да  Да  Да  Да  Да      makefile.msvc
+Да  Да  Да  Да  Да      makefile.owc
+Да  Да  Да  Да  Да      
+Да  Да  Да  Да  ДеДЯopenssl
+Да  Да  Да  Да  Да      conf
+Да  Да  Да  Да  Да      make
+Да  Да  Да  Да  Да      
+Да  Да  Да  Да  ДеДЯpcre
+Да  Да  Да  Да  Да      conf
+Да  Да  Да  Да  Да      make
+Да  Да  Да  Да  Да      makefile.bcc
+Да  Да  Да  Да  Да      makefile.msvc
+Да  Да  Да  Да  Да      makefile.owc
+Да  Да  Да  Да  Да      patch.config.in
+Да  Да  Да  Да  Да      patch.pcre.c
+Да  Да  Да  Да  Да      patch.pcre.in
+Да  Да  Да  Да  Да      patch.pcre.in.owc
+Да  Да  Да  Да  Да      
+Да  Да  Да  Да  ДеДЯperl
+Да  Да  Да  Да  Да      conf
+Да  Да  Да  Да  Да      make
+Да  Да  Да  Да  Да      
+Да  Да  Да  Да  ДеДЯsha1
+Да  Да  Да  Да  Да      conf
+Да  Да  Да  Да  Да      make
+Да  Да  Да  Да  Да      makefile.bcc
+Да  Да  Да  Да  Да      makefile.msvc
+Да  Да  Да  Да  Да      makefile.owc
+Да  Да  Да  Да  Да      
+Да  Да  Да  Да  ДдДЯzlib
+Да  Да  Да  Да          conf
+Да  Да  Да  Да          make
+Да  Да  Да  Да          makefile.bcc
+Да  Да  Да  Да          makefile.msvc
+Да  Да  Да  Да          makefile.owc
+Да  Да  Да  Да          patch.zlib.h
+Да  Да  Да  Да          
+Да  Да  Да  ДеДЯos
+Да  Да  Да  Да      conf
+Да  Да  Да  Да      features
+Да  Да  Да  Да      freebsd
+Да  Да  Да  Да      linux
+Да  Да  Да  Да      solaris
+Да  Да  Да  Да      win32
+Да  Да  Да  Да      
+Да  Да  Да  ДдДЯtypes
+Да  Да  Да          sizeof
+Да  Да  Да          typedef
+Да  Да  Да          uintptr_t
+Да  Да  Да          value
+Да  Да  Да          
+Да  Да  ДеДЯconf
+Да  Да  Да      fastcgi_params
+Да  Да  Да      koi-utf
+Да  Да  Да      koi-win
+Да  Да  Да      mime.types
+Да  Да  Да      nginx.conf
+Да  Да  Да      win-utf
+Да  Да  Да      
+Да  Да  ДеДЯcontrib
+Да  Да  Да  Да  geo2nginx.pl
+Да  Да  Да  Да  README
+Да  Да  Да  Да  
+Да  Да  Да  ДдДЯunicode2nginx
+Да  Да  Да          koi-utf
+Да  Да  Да          unicode-to-nginx.pl
+Да  Да  Да          win-utf
+Да  Да  Да          
+Да  Да  ДеДЯhtml
+Да  Да  Да      50x.html
+Да  Да  Да      index.html
+Да  Да  Да      
+Да  Да  ДдДЯsrc
+Да  Да      ДеДЯcore
+Да  Да      Да      nginx.c
+Да  Да      Да      nginx.h
+Да  Да      Да      ngx_array.c
+Да  Да      Да      ngx_array.h
+Да  Да      Да      ngx_buf.c
+Да  Да      Да      ngx_buf.h
+Да  Да      Да      ngx_config.h
+Да  Да      Да      ngx_conf_file.c
+Да  Да      Да      ngx_conf_file.h
+Да  Да      Да      ngx_connection.c
+Да  Да      Да      ngx_connection.h
+Да  Да      Да      ngx_core.h
+Да  Да      Да      ngx_cpuinfo.c
+Да  Да      Да      ngx_crc.h
+Да  Да      Да      ngx_crc32.c
+Да  Да      Да      ngx_crc32.h
+Да  Да      Да      ngx_cycle.c
+Да  Да      Да      ngx_cycle.h
+Да  Да      Да      ngx_file.c
+Да  Да      Да      ngx_file.h
+Да  Да      Да      ngx_garbage_collector.c
+Да  Да      Да      ngx_garbage_collector.h
+Да  Да      Да      ngx_hash.c
+Да  Да      Да      ngx_hash.h
+Да  Да      Да      ngx_inet.c
+Да  Да      Да      ngx_inet.h
+Да  Да      Да      ngx_list.c
+Да  Да      Да      ngx_list.h
+Да  Да      Да      ngx_log.c
+Да  Да      Да      ngx_log.h
+Да  Да      Да      ngx_md5.h
+Да  Да      Да      ngx_memcache.c
+Да  Да      Да      ngx_memcache.h
+Да  Да      Да      ngx_output_chain.c
+Да  Да      Да      ngx_palloc.c
+Да  Да      Да      ngx_palloc.h
+Да  Да      Да      ngx_parse.c
+Да  Да      Да      ngx_parse.h
+Да  Да      Да      ngx_radix_tree.c
+Да  Да      Да      ngx_radix_tree.h
+Да  Да      Да      ngx_rbtree.c
+Да  Да      Да      ngx_rbtree.h
+Да  Да      Да      ngx_regex.c
+Да  Да      Да      ngx_regex.h
+Да  Да      Да      ngx_serialize.c
+Да  Да      Да      ngx_serialize.h
+Да  Да      Да      ngx_sha1.h
+Да  Да      Да      ngx_shmtx.c
+Да  Да      Да      ngx_shmtx.h
+Да  Да      Да      ngx_slab.c
+Да  Да      Да      ngx_slab.h
+Да  Да      Да      ngx_spinlock.c
+Да  Да      Да      ngx_string.c
+Да  Да      Да      ngx_string.h
+Да  Да      Да      ngx_times.c
+Да  Да      Да      ngx_times.h
+Да  Да      Да      
+Да  Да      ДеДЯevent
+Да  Да      Да  Да  ngx_event.c
+Да  Да      Да  Да  ngx_event.h
+Да  Да      Да  Да  ngx_event_accept.c
+Да  Да      Да  Да  ngx_event_busy_lock.c
+Да  Да      Да  Да  ngx_event_busy_lock.h
+Да  Да      Да  Да  ngx_event_connect.c
+Да  Да      Да  Да  ngx_event_connect.h
+Да  Да      Да  Да  ngx_event_mutex.c
+Да  Да      Да  Да  ngx_event_openssl.c
+Да  Да      Да  Да  ngx_event_openssl.h
+Да  Да      Да  Да  ngx_event_pipe.c
+Да  Да      Да  Да  ngx_event_pipe.h
+Да  Да      Да  Да  ngx_event_posted.c
+Да  Да      Да  Да  ngx_event_posted.h
+Да  Да      Да  Да  ngx_event_timer.c
+Да  Да      Да  Да  ngx_event_timer.h
+Да  Да      Да  Да  
+Да  Да      Да  ДдДЯmodules
+Да  Да      Да          ngx_aio_module.c
+Да  Да      Да          ngx_devpoll_module.c
+Да  Да      Да          ngx_epoll_module.c
+Да  Да      Да          ngx_eventport_module.c
+Да  Да      Да          ngx_kqueue_module.c
+Да  Да      Да          ngx_kqueue_module.h
+Да  Да      Да          ngx_poll_module.c
+Да  Да      Да          ngx_rtsig_module.c
+Да  Да      Да          ngx_select_module.c
+Да  Да      Да          
+Да  Да      ДеДЯhttp
+Да  Да      Да  Да  ngx_http.c
+Да  Да      Да  Да  ngx_http.h
+Да  Да      Да  Да  ngx_http_busy_lock.c
+Да  Да      Да  Да  ngx_http_busy_lock.h
+Да  Да      Да  Да  ngx_http_cache.c
+Да  Да      Да  Да  ngx_http_cache.h
+Да  Да      Да  Да  ngx_http_config.h
+Да  Да      Да  Да  ngx_http_copy_filter_module.c
+Да  Да      Да  Да  ngx_http_core_module.c
+Да  Да      Да  Да  ngx_http_core_module.h
+Да  Да      Да  Да  ngx_http_file_cache.c
+Да  Да      Да  Да  ngx_http_header_filter_module.c
+Да  Да      Да  Да  ngx_http_parse.c
+Да  Да      Да  Да  ngx_http_parse_time.c
+Да  Да      Да  Да  ngx_http_postpone_filter_module.c
+Да  Да      Да  Да  ngx_http_request.c
+Да  Да      Да  Да  ngx_http_request.h
+Да  Да      Да  Да  ngx_http_request_body.c
+Да  Да      Да  Да  ngx_http_script.c
+Да  Да      Да  Да  ngx_http_script.h
+Да  Да      Да  Да  ngx_http_special_response.c
+Да  Да      Да  Да  ngx_http_upstream.c
+Да  Да      Да  Да  ngx_http_upstream.h
+Да  Да      Да  Да  ngx_http_upstream_round_robin.c
+Да  Да      Да  Да  ngx_http_upstream_round_robin.h
+Да  Да      Да  Да  ngx_http_variables.c
+Да  Да      Да  Да  ngx_http_variables.h
+Да  Да      Да  Да  ngx_http_write_filter_module.c
+Да  Да      Да  Да  
+Да  Да      Да  ДдДЯmodules
+Да  Да      Да      Да  ngx_http_access_module.c
+Да  Да      Да      Да  ngx_http_addition_filter_module.c
+Да  Да      Да      Да  ngx_http_auth_basic_module.c
+Да  Да      Да      Да  ngx_http_autoindex_module.c
+Да  Да      Да      Да  ngx_http_browser_module.c
+Да  Да      Да      Да  ngx_http_charset_filter_module.c
+Да  Да      Да      Да  ngx_http_chunked_filter_module.c
+Да  Да      Да      Да  ngx_http_dav_module.c
+Да  Да      Да      Да  ngx_http_empty_gif_module.c
+Да  Да      Да      Да  ngx_http_fastcgi_module.c
+Да  Да      Да      Да  ngx_http_flv_module.c
+Да  Да      Да      Да  ngx_http_geo_module.c
+Да  Да      Да      Да  ngx_http_gzip_filter_module.c
+Да  Да      Да      Да  ngx_http_headers_filter_module.c
+Да  Да      Да      Да  ngx_http_index_module.c
+Да  Да      Да      Да  ngx_http_limit_zone_module.c
+Да  Да      Да      Да  ngx_http_log_module.c
+Да  Да      Да      Да  ngx_http_map_module.c
+Да  Да      Да      Да  ngx_http_memcached_module.c
+Да  Да      Да      Да  ngx_http_not_modified_filter_module.c
+Да  Да      Да      Да  ngx_http_proxy_module.c
+Да  Да      Да      Да  ngx_http_range_filter_module.c
+Да  Да      Да      Да  ngx_http_realip_module.c
+Да  Да      Да      Да  ngx_http_referer_module.c
+Да  Да      Да      Да  ngx_http_rewrite_module.c
+Да  Да      Да      Да  ngx_http_ssi_filter_module.c
+Да  Да      Да      Да  ngx_http_ssi_filter_module.h
+Да  Да      Да      Да  ngx_http_ssl_module.c
+Да  Да      Да      Да  ngx_http_ssl_module.h
+Да  Да      Да      Да  ngx_http_static_module.c
+Да  Да      Да      Да  ngx_http_stub_status_module.c
+Да  Да      Да      Да  ngx_http_sub_filter_module.c
+Да  Да      Да      Да  ngx_http_upstream_ip_hash_module.c
+Да  Да      Да      Да  ngx_http_upstream_zmauth_module.c
+Да  Да      Да      Да  ngx_http_upstream_zmauth_module.h
+Да  Да      Да      Да  ngx_http_userid_filter_module.c
+Да  Да      Да      Да  
+Да  Да      Да      ДдДЯperl
+Да  Да      Да              Makefile.PL
+Да  Да      Да              nginx.pm
+Да  Да      Да              nginx.xs
+Да  Да      Да              ngx_http_perl_module.c
+Да  Да      Да              ngx_http_perl_module.h
+Да  Да      Да              typemap
+Да  Да      Да              
+Да  Да      ДеДЯmail
+Да  Да      Да      ngx_mail.c
+Да  Да      Да      ngx_mail.h
+Да  Да      Да      ngx_mail_auth_http_module.c
+Да  Да      Да      ngx_mail_auth_http_module.h
+Да  Да      Да      ngx_mail_core_module.c
+Да  Да      Да      ngx_mail_handler.c
+Да  Да      Да      ngx_mail_parse.c
+Да  Да      Да      ngx_mail_proxy_module.c
+Да  Да      Да      ngx_mail_ssl_module.c
+Да  Да      Да      ngx_mail_ssl_module.h
+Да  Да      Да      ngx_mail_throttle_module.c
+Да  Да      Да      ngx_mail_throttle_module.h
+Да  Да      Да      
+Да  Да      ДдДЯos
+Да  Да          ДдДЯunix
+Да  Да                  ngx_aio.h
+Да  Да                  ngx_aio_read.c
+Да  Да                  ngx_aio_read_chain.c
+Да  Да                  ngx_aio_write.c
+Да  Да                  ngx_aio_write_chain.c
+Да  Да                  ngx_alloc.c
+Да  Да                  ngx_alloc.h
+Да  Да                  ngx_atomic.h
+Да  Да                  ngx_channel.c
+Да  Да                  ngx_channel.h
+Да  Да                  ngx_daemon.c
+Да  Да                  ngx_errno.c
+Да  Да                  ngx_errno.h
+Да  Да                  ngx_files.c
+Да  Да                  ngx_files.h
+Да  Да                  ngx_freebsd.h
+Да  Да                  ngx_freebsd_config.h
+Да  Да                  ngx_freebsd_init.c
+Да  Да                  ngx_freebsd_rfork_thread.c
+Да  Да                  ngx_freebsd_rfork_thread.h
+Да  Да                  ngx_freebsd_sendfile_chain.c
+Да  Да                  ngx_gcc_atomic_amd64.h
+Да  Да                  ngx_gcc_atomic_ppc.h
+Да  Да                  ngx_gcc_atomic_sparc64.h
+Да  Да                  ngx_gcc_atomic_x86.h
+Да  Да                  ngx_linux.h
+Да  Да                  ngx_linux_config.h
+Да  Да                  ngx_linux_init.c
+Да  Да                  ngx_linux_sendfile_chain.c
+Да  Да                  ngx_os.h
+Да  Да                  ngx_posix_config.h
+Да  Да                  ngx_posix_init.c
+Да  Да                  ngx_process.c
+Да  Да                  ngx_process.h
+Да  Да                  ngx_process_cycle.c
+Да  Да                  ngx_process_cycle.h
+Да  Да                  ngx_pthread_thread.c
+Да  Да                  ngx_readv_chain.c
+Да  Да                  ngx_recv.c
+Да  Да                  ngx_send.c
+Да  Да                  ngx_setproctitle.c
+Да  Да                  ngx_setproctitle.h
+Да  Да                  ngx_shmem.c
+Да  Да                  ngx_shmem.h
+Да  Да                  ngx_socket.c
+Да  Да                  ngx_socket.h
+Да  Да                  ngx_solaris.h
+Да  Да                  ngx_solaris_config.h
+Да  Да                  ngx_solaris_init.c
+Да  Да                  ngx_solaris_sendfilev_chain.c
+Да  Да                  ngx_sunpro_amd64.il
+Да  Да                  ngx_sunpro_atomic_sparc64.h
+Да  Да                  ngx_sunpro_sparc64.il
+Да  Да                  ngx_sunpro_x86.il
+Да  Да                  ngx_sunpro_x86.map
+Да  Да                  ngx_thread.h
+Да  Да                  ngx_time.c
+Да  Да                  ngx_time.h
+Да  Да                  ngx_types.h
+Да  Да                  ngx_user.c
+Да  Да                  ngx_user.h
+Да  Да                  ngx_writev_chain.c
+Да  Да                  rfork_thread.S
+Да  Да                  
+Да  ДеДЯnginx-0.9-zimbra
+Да  Да  Да  CHANGES
+Да  Да  Да  CHANGES.ru
+Да  Да  Да  configure
+Да  Да  Да  LICENSE
+Да  Да  Да  Makefile
+Да  Да  Да  README
+Да  Да  Да  
+Да  Да  ДеДЯauto
+Да  Да  Да  Да  define
+Да  Да  Да  Да  endianess
+Да  Да  Да  Да  feature
+Да  Да  Да  Да  have
+Да  Да  Да  Да  have_headers
+Да  Да  Да  Да  headers
+Да  Да  Да  Да  include
+Да  Да  Да  Да  init
+Да  Да  Да  Да  install
+Да  Да  Да  Да  make
+Да  Да  Да  Да  modules
+Да  Да  Да  Да  nohave
+Да  Да  Да  Да  options
+Да  Да  Да  Да  sources
+Да  Да  Да  Да  stubs
+Да  Да  Да  Да  summary
+Да  Да  Да  Да  threads
+Да  Да  Да  Да  unix
+Да  Да  Да  Да  
+Да  Да  Да  ДеДЯcc
+Да  Да  Да  Да      acc
+Да  Да  Да  Да      bcc
+Да  Да  Да  Да      ccc
+Да  Да  Да  Да      conf
+Да  Да  Да  Да      gcc
+Да  Да  Да  Да      icc
+Да  Да  Да  Да      msvc
+Да  Да  Да  Да      name
+Да  Да  Да  Да      owc
+Да  Да  Да  Да      sunc
+Да  Да  Да  Да      
+Да  Да  Да  ДеДЯlib
+Да  Да  Да  Да  Да  conf
+Да  Да  Да  Да  Да  make
+Да  Да  Да  Да  Да  test
+Да  Да  Да  Да  Да  
+Да  Да  Да  Да  ДеДЯgeoip
+Да  Да  Да  Да  Да      conf
+Да  Да  Да  Да  Да      
+Да  Да  Да  Да  ДеДЯgoogle-perftools
+Да  Да  Да  Да  Да      conf
+Да  Да  Да  Да  Да      
+Да  Да  Да  Да  ДеДЯlibatomic
+Да  Да  Да  Да  Да      conf
+Да  Да  Да  Да  Да      make
+Да  Да  Да  Да  Да      
+Да  Да  Да  Да  ДеДЯlibgd
+Да  Да  Да  Да  Да      conf
+Да  Да  Да  Да  Да      
+Да  Да  Да  Да  ДеДЯlibxslt
+Да  Да  Да  Да  Да      conf
+Да  Да  Да  Да  Да      
+Да  Да  Да  Да  ДеДЯmd5
+Да  Да  Да  Да  Да      conf
+Да  Да  Да  Да  Да      make
+Да  Да  Да  Да  Да      makefile.bcc
+Да  Да  Да  Да  Да      makefile.msvc
+Да  Да  Да  Да  Да      makefile.owc
+Да  Да  Да  Да  Да      
+Да  Да  Да  Да  ДеДЯopenssl
+Да  Да  Да  Да  Да      conf
+Да  Да  Да  Да  Да      make
+Да  Да  Да  Да  Да      makefile.bcc
+Да  Да  Да  Да  Да      makefile.msvc
+Да  Да  Да  Да  Да      
+Да  Да  Да  Да  ДеДЯpcre
+Да  Да  Да  Да  Да      conf
+Да  Да  Да  Да  Да      make
+Да  Да  Да  Да  Да      makefile.bcc
+Да  Да  Да  Да  Да      makefile.msvc
+Да  Да  Да  Да  Да      makefile.owc
+Да  Да  Да  Да  Да      
+Да  Да  Да  Да  ДеДЯperl
+Да  Да  Да  Да  Да      conf
+Да  Да  Да  Да  Да      make
+Да  Да  Да  Да  Да      
+Да  Да  Да  Да  ДеДЯsasl
+Да  Да  Да  Да  Да      conf
+Да  Да  Да  Да  Да      
+Да  Да  Да  Да  ДеДЯsha1
+Да  Да  Да  Да  Да      conf
+Да  Да  Да  Да  Да      make
+Да  Да  Да  Да  Да      makefile.bcc
+Да  Да  Да  Да  Да      makefile.msvc
+Да  Да  Да  Да  Да      makefile.owc
+Да  Да  Да  Да  Да      
+Да  Да  Да  Да  ДдДЯzlib
+Да  Да  Да  Да          conf
+Да  Да  Да  Да          make
+Да  Да  Да  Да          makefile.bcc
+Да  Да  Да  Да          makefile.msvc
+Да  Да  Да  Да          makefile.owc
+Да  Да  Да  Да          patch.zlib.h
+Да  Да  Да  Да          
+Да  Да  Да  ДеДЯos
+Да  Да  Да  Да      conf
+Да  Да  Да  Да      darwin
+Да  Да  Да  Да      features
+Да  Да  Да  Да      freebsd
+Да  Да  Да  Да      linux
+Да  Да  Да  Да      solaris
+Да  Да  Да  Да      win32
+Да  Да  Да  Да      
+Да  Да  Да  ДдДЯtypes
+Да  Да  Да          sizeof
+Да  Да  Да          typedef
+Да  Да  Да          uintptr_t
+Да  Да  Да          value
+Да  Да  Да          
+Да  Да  ДеДЯconf
+Да  Да  Да      fastcgi.conf
+Да  Да  Да      fastcgi_params
+Да  Да  Да      koi-utf
+Да  Да  Да      koi-win
+Да  Да  Да      mime.types
+Да  Да  Да      nginx.conf
+Да  Да  Да      scgi_params
+Да  Да  Да      uwsgi_params
+Да  Да  Да      win-utf
+Да  Да  Да      
+Да  Да  ДеДЯcontrib
+Да  Да  Да  Да  geo2nginx.pl
+Да  Да  Да  Да  README
+Да  Да  Да  Да  
+Да  Да  Да  ДдДЯunicode2nginx
+Да  Да  Да          koi-utf
+Да  Да  Да          unicode-to-nginx.pl
+Да  Да  Да          win-utf
+Да  Да  Да          
+Да  Да  ДеДЯhtml
+Да  Да  Да      50x.html
+Да  Да  Да      index.html
+Да  Да  Да      zmerror_upstream_502.html
+Да  Да  Да      zmerror_upstream_504.html
+Да  Да  Да      
+Да  Да  ДеДЯman
+Да  Да  Да      nginx.8
+Да  Да  Да      
+Да  Да  ДдДЯsrc
+Да  Да      ДеДЯcore
+Да  Да      Да      nginx.c
+Да  Да      Да      nginx.h
+Да  Да      Да      ngx_array.c
+Да  Да      Да      ngx_array.h
+Да  Да      Да      ngx_buf.c
+Да  Да      Да      ngx_buf.h
+Да  Да      Да      ngx_config.h
+Да  Да      Да      ngx_conf_file.c
+Да  Да      Да      ngx_conf_file.h
+Да  Да      Да      ngx_connection.c
+Да  Да      Да      ngx_connection.h
+Да  Да      Да      ngx_core.h
+Да  Да      Да      ngx_cpuinfo.c
+Да  Да      Да      ngx_crc.h
+Да  Да      Да      ngx_crc32.c
+Да  Да      Да      ngx_crc32.h
+Да  Да      Да      ngx_cycle.c
+Да  Да      Да      ngx_cycle.h
+Да  Да      Да      ngx_file.c
+Да  Да      Да      ngx_file.h
+Да  Да      Да      ngx_hash.c
+Да  Да      Да      ngx_hash.h
+Да  Да      Да      ngx_inet.c
+Да  Да      Да      ngx_inet.h
+Да  Да      Да      ngx_list.c
+Да  Да      Да      ngx_list.h
+Да  Да      Да      ngx_log.c
+Да  Да      Да      ngx_log.h
+Да  Да      Да      ngx_md5.h
+Да  Да      Да      ngx_memcache.c
+Да  Да      Да      ngx_memcache.h
+Да  Да      Да      ngx_open_file_cache.c
+Да  Да      Да      ngx_open_file_cache.h
+Да  Да      Да      ngx_output_chain.c
+Да  Да      Да      ngx_palloc.c
+Да  Да      Да      ngx_palloc.h
+Да  Да      Да      ngx_parse.c
+Да  Да      Да      ngx_parse.h
+Да  Да      Да      ngx_queue.c
+Да  Да      Да      ngx_queue.h
+Да  Да      Да      ngx_radix_tree.c
+Да  Да      Да      ngx_radix_tree.h
+Да  Да      Да      ngx_rbtree.c
+Да  Да      Да      ngx_rbtree.h
+Да  Да      Да      ngx_regex.c
+Да  Да      Да      ngx_regex.h
+Да  Да      Да      ngx_resolver.c
+Да  Да      Да      ngx_resolver.h
+Да  Да      Да      ngx_sha1.h
+Да  Да      Да      ngx_shmtx.c
+Да  Да      Да      ngx_shmtx.h
+Да  Да      Да      ngx_slab.c
+Да  Да      Да      ngx_slab.h
+Да  Да      Да      ngx_spinlock.c
+Да  Да      Да      ngx_string.c
+Да  Да      Да      ngx_string.h
+Да  Да      Да      ngx_times.c
+Да  Да      Да      ngx_times.h
+Да  Да      Да      ngx_zm_lookup.c
+Да  Да      Да      ngx_zm_lookup.h
+Да  Да      Да      
+Да  Да      ДеДЯevent
+Да  Да      Да  Да  ngx_event.c
+Да  Да      Да  Да  ngx_event.h
+Да  Да      Да  Да  ngx_event_accept.c
+Да  Да      Да  Да  ngx_event_busy_lock.c
+Да  Да      Да  Да  ngx_event_busy_lock.h
+Да  Да      Да  Да  ngx_event_connect.c
+Да  Да      Да  Да  ngx_event_connect.h
+Да  Да      Да  Да  ngx_event_mutex.c
+Да  Да      Да  Да  ngx_event_openssl.c
+Да  Да      Да  Да  ngx_event_openssl.h
+Да  Да      Да  Да  ngx_event_pipe.c
+Да  Да      Да  Да  ngx_event_pipe.h
+Да  Да      Да  Да  ngx_event_posted.c
+Да  Да      Да  Да  ngx_event_posted.h
+Да  Да      Да  Да  ngx_event_timer.c
+Да  Да      Да  Да  ngx_event_timer.h
+Да  Да      Да  Да  
+Да  Да      Да  ДдДЯmodules
+Да  Да      Да          ngx_aio_module.c
+Да  Да      Да          ngx_devpoll_module.c
+Да  Да      Да          ngx_epoll_module.c
+Да  Да      Да          ngx_eventport_module.c
+Да  Да      Да          ngx_kqueue_module.c
+Да  Да      Да          ngx_poll_module.c
+Да  Да      Да          ngx_rtsig_module.c
+Да  Да      Да          ngx_select_module.c
+Да  Да      Да          ngx_win32_select_module.c
+Да  Да      Да          
+Да  Да      ДеДЯhttp
+Да  Да      Да  Да  ngx_http.c
+Да  Да      Да  Да  ngx_http.h
+Да  Да      Да  Да  ngx_http_busy_lock.c
+Да  Да      Да  Да  ngx_http_busy_lock.h
+Да  Да      Да  Да  ngx_http_cache.h
+Да  Да      Да  Да  ngx_http_config.h
+Да  Да      Да  Да  ngx_http_copy_filter_module.c
+Да  Да      Да  Да  ngx_http_core_module.c
+Да  Да      Да  Да  ngx_http_core_module.h
+Да  Да      Да  Да  ngx_http_file_cache.c
+Да  Да      Да  Да  ngx_http_header_filter_module.c
+Да  Да      Да  Да  ngx_http_parse.c
+Да  Да      Да  Да  ngx_http_parse_time.c
+Да  Да      Да  Да  ngx_http_postpone_filter_module.c
+Да  Да      Да  Да  ngx_http_request.c
+Да  Да      Да  Да  ngx_http_request.h
+Да  Да      Да  Да  ngx_http_request_body.c
+Да  Да      Да  Да  ngx_http_script.c
+Да  Да      Да  Да  ngx_http_script.h
+Да  Да      Да  Да  ngx_http_special_response.c
+Да  Да      Да  Да  ngx_http_upstream.c
+Да  Да      Да  Да  ngx_http_upstream.h
+Да  Да      Да  Да  ngx_http_upstream_round_robin.c
+Да  Да      Да  Да  ngx_http_upstream_round_robin.h
+Да  Да      Да  Да  ngx_http_variables.c
+Да  Да      Да  Да  ngx_http_variables.h
+Да  Да      Да  Да  ngx_http_write_filter_module.c
+Да  Да      Да  Да  
+Да  Да      Да  ДдДЯmodules
+Да  Да      Да      Да  ngx_http_access_module.c
+Да  Да      Да      Да  ngx_http_addition_filter_module.c
+Да  Да      Да      Да  ngx_http_auth_basic_module.c
+Да  Да      Да      Да  ngx_http_autoindex_module.c
+Да  Да      Да      Да  ngx_http_browser_module.c
+Да  Да      Да      Да  ngx_http_charset_filter_module.c
+Да  Да      Да      Да  ngx_http_chunked_filter_module.c
+Да  Да      Да      Да  ngx_http_dav_module.c
+Да  Да      Да      Да  ngx_http_degradation_module.c
+Да  Да      Да      Да  ngx_http_empty_gif_module.c
+Да  Да      Да      Да  ngx_http_fastcgi_module.c
+Да  Да      Да      Да  ngx_http_flv_module.c
+Да  Да      Да      Да  ngx_http_geoip_module.c
+Да  Да      Да      Да  ngx_http_geo_module.c
+Да  Да      Да      Да  ngx_http_gzip_filter_module.c
+Да  Да      Да      Да  ngx_http_gzip_static_module.c
+Да  Да      Да      Да  ngx_http_headers_filter_module.c
+Да  Да      Да      Да  ngx_http_image_filter_module.c
+Да  Да      Да      Да  ngx_http_index_module.c
+Да  Да      Да      Да  ngx_http_limit_req_module.c
+Да  Да      Да      Да  ngx_http_limit_zone_module.c
+Да  Да      Да      Да  ngx_http_log_module.c
+Да  Да      Да      Да  ngx_http_map_module.c
+Да  Да      Да      Да  ngx_http_memcached_module.c
+Да  Да      Да      Да  ngx_http_not_modified_filter_module.c
+Да  Да      Да      Да  ngx_http_proxy_module.c
+Да  Да      Да      Да  ngx_http_random_index_module.c
+Да  Да      Да      Да  ngx_http_range_filter_module.c
+Да  Да      Да      Да  ngx_http_realip_module.c
+Да  Да      Да      Да  ngx_http_referer_module.c
+Да  Да      Да      Да  ngx_http_rewrite_module.c
+Да  Да      Да      Да  ngx_http_scgi_module.c
+Да  Да      Да      Да  ngx_http_secure_link_module.c
+Да  Да      Да      Да  ngx_http_split_clients_module.c
+Да  Да      Да      Да  ngx_http_ssi_filter_module.c
+Да  Да      Да      Да  ngx_http_ssi_filter_module.h
+Да  Да      Да      Да  ngx_http_ssl_module.c
+Да  Да      Да      Да  ngx_http_ssl_module.h
+Да  Да      Да      Да  ngx_http_static_module.c
+Да  Да      Да      Да  ngx_http_stub_status_module.c
+Да  Да      Да      Да  ngx_http_sub_filter_module.c
+Да  Да      Да      Да  ngx_http_upstream_ip_hash_module.c
+Да  Да      Да      Да  ngx_http_upstream_zmauth_module.c
+Да  Да      Да      Да  ngx_http_upstream_zmauth_module.h
+Да  Да      Да      Да  ngx_http_userid_filter_module.c
+Да  Да      Да      Да  ngx_http_uwsgi_module.c
+Да  Да      Да      Да  ngx_http_xslt_filter_module.c
+Да  Да      Да      Да  ngx_http_zm_sso_module.c
+Да  Да      Да      Да  ngx_http_zm_sso_module.h
+Да  Да      Да      Да  
+Да  Да      Да      ДдДЯperl
+Да  Да      Да              Makefile.PL
+Да  Да      Да              nginx.pm
+Да  Да      Да              nginx.xs
+Да  Да      Да              ngx_http_perl_module.c
+Да  Да      Да              ngx_http_perl_module.h
+Да  Да      Да              typemap
+Да  Да      Да              
+Да  Да      ДеДЯmail
+Да  Да      Да      ngx_mail.c
+Да  Да      Да      ngx_mail.h
+Да  Да      Да      ngx_mail_auth_http_module.c
+Да  Да      Да      ngx_mail_core_module.c
+Да  Да      Да      ngx_mail_handler.c
+Да  Да      Да      ngx_mail_imap_handler.c
+Да  Да      Да      ngx_mail_imap_module.c
+Да  Да      Да      ngx_mail_imap_module.h
+Да  Да      Да      ngx_mail_parse.c
+Да  Да      Да      ngx_mail_pop3_handler.c
+Да  Да      Да      ngx_mail_pop3_module.c
+Да  Да      Да      ngx_mail_pop3_module.h
+Да  Да      Да      ngx_mail_proxy_module.c
+Да  Да      Да      ngx_mail_smtp_handler.c
+Да  Да      Да      ngx_mail_smtp_module.c
+Да  Да      Да      ngx_mail_smtp_module.h
+Да  Да      Да      ngx_mail_ssl_module.c
+Да  Да      Да      ngx_mail_ssl_module.h
+Да  Да      Да      ngx_mail_throttle_module.c
+Да  Да      Да      ngx_mail_throttle_module.h
+Да  Да      Да      ngx_mail_zmauth_module.c
+Да  Да      Да      ngx_mail_zmauth_module.h
+Да  Да      Да      
+Да  Да      ДеДЯmisc
+Да  Да      Да      ngx_cpp_test_module.cpp
+Да  Да      Да      ngx_google_perftools_module.c
+Да  Да      Да      
+Да  Да      ДдДЯos
+Да  Да          ДдДЯunix
+Да  Да                  ngx_aio_read.c
+Да  Да                  ngx_aio_read_chain.c
+Да  Да                  ngx_aio_write.c
+Да  Да                  ngx_aio_write_chain.c
+Да  Да                  ngx_alloc.c
+Да  Да                  ngx_alloc.h
+Да  Да                  ngx_atomic.h
+Да  Да                  ngx_channel.c
+Да  Да                  ngx_channel.h
+Да  Да                  ngx_daemon.c
+Да  Да                  ngx_darwin.h
+Да  Да                  ngx_darwin_config.h
+Да  Да                  ngx_darwin_init.c
+Да  Да                  ngx_darwin_sendfile_chain.c
+Да  Да                  ngx_errno.c
+Да  Да                  ngx_errno.h
+Да  Да                  ngx_files.c
+Да  Да                  ngx_files.h
+Да  Да                  ngx_file_aio_read.c
+Да  Да                  ngx_freebsd.h
+Да  Да                  ngx_freebsd_config.h
+Да  Да                  ngx_freebsd_init.c
+Да  Да                  ngx_freebsd_rfork_thread.c
+Да  Да                  ngx_freebsd_rfork_thread.h
+Да  Да                  ngx_freebsd_sendfile_chain.c
+Да  Да                  ngx_gcc_atomic_amd64.h
+Да  Да                  ngx_gcc_atomic_ppc.h
+Да  Да                  ngx_gcc_atomic_sparc64.h
+Да  Да                  ngx_gcc_atomic_x86.h
+Да  Да                  ngx_linux.h
+Да  Да                  ngx_linux_aio_read.c
+Да  Да                  ngx_linux_config.h
+Да  Да                  ngx_linux_init.c
+Да  Да                  ngx_linux_sendfile_chain.c
+Да  Да                  ngx_os.h
+Да  Да                  ngx_posix_config.h
+Да  Да                  ngx_posix_init.c
+Да  Да                  ngx_process.c
+Да  Да                  ngx_process.h
+Да  Да                  ngx_process_cycle.c
+Да  Да                  ngx_process_cycle.h
+Да  Да                  ngx_pthread_thread.c
+Да  Да                  ngx_readv_chain.c
+Да  Да                  ngx_recv.c
+Да  Да                  ngx_send.c
+Да  Да                  ngx_setproctitle.c
+Да  Да                  ngx_setproctitle.h
+Да  Да                  ngx_shmem.c
+Да  Да                  ngx_shmem.h
+Да  Да                  ngx_socket.c
+Да  Да                  ngx_socket.h
+Да  Да                  ngx_solaris.h
+Да  Да                  ngx_solaris_config.h
+Да  Да                  ngx_solaris_init.c
+Да  Да                  ngx_solaris_sendfilev_chain.c
+Да  Да                  ngx_sunpro_amd64.il
+Да  Да                  ngx_sunpro_atomic_sparc64.h
+Да  Да                  ngx_sunpro_sparc64.il
+Да  Да                  ngx_sunpro_x86.il
+Да  Да                  ngx_thread.h
+Да  Да                  ngx_time.c
+Да  Да                  ngx_time.h
+Да  Да                  ngx_udp_recv.c
+Да  Да                  ngx_user.c
+Да  Да                  ngx_user.h
+Да  Да                  ngx_writev_chain.c
+Да  Да                  rfork_thread.S
+Да  Да                  
+Да  ДеДЯnginx-1.2.0-zimbra
+Да  Да  Да  CHANGES
+Да  Да  Да  CHANGES.ru
+Да  Да  Да  configure
+Да  Да  Да  LICENSE
+Да  Да  Да  README
+Да  Да  Да  
+Да  Да  ДеДЯauto
+Да  Да  Да  Да  define
+Да  Да  Да  Да  endianess
+Да  Да  Да  Да  feature
+Да  Да  Да  Да  have
+Да  Да  Да  Да  have_headers
+Да  Да  Да  Да  headers
+Да  Да  Да  Да  include
+Да  Да  Да  Да  init
+Да  Да  Да  Да  install
+Да  Да  Да  Да  make
+Да  Да  Да  Да  modules
+Да  Да  Да  Да  nohave
+Да  Да  Да  Да  options
+Да  Да  Да  Да  sources
+Да  Да  Да  Да  stubs
+Да  Да  Да  Да  summary
+Да  Да  Да  Да  unix
+Да  Да  Да  Да  
+Да  Да  Да  ДеДЯcc
+Да  Да  Да  Да      acc
+Да  Да  Да  Да      bcc
+Да  Да  Да  Да      ccc
+Да  Да  Да  Да      conf
+Да  Да  Да  Да      gcc
+Да  Да  Да  Да      icc
+Да  Да  Да  Да      msvc
+Да  Да  Да  Да      name
+Да  Да  Да  Да      owc
+Да  Да  Да  Да      sunc
+Да  Да  Да  Да      
+Да  Да  Да  ДеДЯlib
+Да  Да  Да  Да  Да  conf
+Да  Да  Да  Да  Да  make
+Да  Да  Да  Да  Да  test
+Да  Да  Да  Да  Да  
+Да  Да  Да  Да  ДеДЯgeoip
+Да  Да  Да  Да  Да      conf
+Да  Да  Да  Да  Да      
+Да  Да  Да  Да  ДеДЯgoogle-perftools
+Да  Да  Да  Да  Да      conf
+Да  Да  Да  Да  Да      
+Да  Да  Да  Да  ДеДЯlibatomic
+Да  Да  Да  Да  Да      conf
+Да  Да  Да  Да  Да      make
+Да  Да  Да  Да  Да      
+Да  Да  Да  Да  ДеДЯlibgd
+Да  Да  Да  Да  Да      conf
+Да  Да  Да  Да  Да      
+Да  Да  Да  Да  ДеДЯlibxslt
+Да  Да  Да  Да  Да      conf
+Да  Да  Да  Да  Да      
+Да  Да  Да  Да  ДеДЯmd5
+Да  Да  Да  Да  Да      conf
+Да  Да  Да  Да  Да      make
+Да  Да  Да  Да  Да      makefile.bcc
+Да  Да  Да  Да  Да      makefile.msvc
+Да  Да  Да  Да  Да      makefile.owc
+Да  Да  Да  Да  Да      
+Да  Да  Да  Да  ДеДЯopenssl
+Да  Да  Да  Да  Да      conf
+Да  Да  Да  Да  Да      make
+Да  Да  Да  Да  Да      makefile.bcc
+Да  Да  Да  Да  Да      makefile.msvc
+Да  Да  Да  Да  Да      
+Да  Да  Да  Да  ДеДЯpcre
+Да  Да  Да  Да  Да      conf
+Да  Да  Да  Да  Да      make
+Да  Да  Да  Да  Да      makefile.bcc
+Да  Да  Да  Да  Да      makefile.msvc
+Да  Да  Да  Да  Да      makefile.owc
+Да  Да  Да  Да  Да      
+Да  Да  Да  Да  ДеДЯperl
+Да  Да  Да  Да  Да      conf
+Да  Да  Да  Да  Да      make
+Да  Да  Да  Да  Да      
+Да  Да  Да  Да  ДеДЯsasl
+Да  Да  Да  Да  Да      conf
+Да  Да  Да  Да  Да      
+Да  Да  Да  Да  ДеДЯsha1
+Да  Да  Да  Да  Да      conf
+Да  Да  Да  Да  Да      make
+Да  Да  Да  Да  Да      makefile.bcc
+Да  Да  Да  Да  Да      makefile.msvc
+Да  Да  Да  Да  Да      makefile.owc
+Да  Да  Да  Да  Да      
+Да  Да  Да  Да  ДдДЯzlib
+Да  Да  Да  Да          conf
+Да  Да  Да  Да          make
+Да  Да  Да  Да          makefile.bcc
+Да  Да  Да  Да          makefile.msvc
+Да  Да  Да  Да          makefile.owc
+Да  Да  Да  Да          patch.zlib.h
+Да  Да  Да  Да          
+Да  Да  Да  ДеДЯos
+Да  Да  Да  Да      conf
+Да  Да  Да  Да      darwin
+Да  Да  Да  Да      freebsd
+Да  Да  Да  Да      linux
+Да  Да  Да  Да      solaris
+Да  Да  Да  Да      win32
+Да  Да  Да  Да      
+Да  Да  Да  ДдДЯtypes
+Да  Да  Да          sizeof
+Да  Да  Да          typedef
+Да  Да  Да          uintptr_t
+Да  Да  Да          value
+Да  Да  Да          
+Да  Да  ДеДЯconf
+Да  Да  Да      fastcgi.conf
+Да  Да  Да      fastcgi_params
+Да  Да  Да      koi-utf
+Да  Да  Да      koi-win
+Да  Да  Да      mime.types
+Да  Да  Да      nginx.conf
+Да  Да  Да      scgi_params
+Да  Да  Да      uwsgi_params
+Да  Да  Да      win-utf
+Да  Да  Да      
+Да  Да  ДеДЯcontrib
+Да  Да  Да  Да  geo2nginx.pl
+Да  Да  Да  Да  README
+Да  Да  Да  Да  
+Да  Да  Да  ДдДЯunicode2nginx
+Да  Да  Да          koi-utf
+Да  Да  Да          unicode-to-nginx.pl
+Да  Да  Да          win-utf
+Да  Да  Да          
+Да  Да  ДеДЯhtml
+Да  Да  Да      50x.html
+Да  Да  Да      index.html
+Да  Да  Да      zmerror_upstream_502.html
+Да  Да  Да      zmerror_upstream_504.html
+Да  Да  Да      
+Да  Да  ДеДЯman
+Да  Да  Да      nginx.8
+Да  Да  Да      
+Да  Да  ДдДЯsrc
+Да  Да      ДеДЯcore
+Да  Да      Да      nginx.c
+Да  Да      Да      nginx.h
+Да  Да      Да      ngx_array.c
+Да  Да      Да      ngx_array.h
+Да  Да      Да      ngx_buf.c
+Да  Да      Да      ngx_buf.h
+Да  Да      Да      ngx_config.h
+Да  Да      Да      ngx_conf_file.c
+Да  Да      Да      ngx_conf_file.h
+Да  Да      Да      ngx_connection.c
+Да  Да      Да      ngx_connection.h
+Да  Да      Да      ngx_core.h
+Да  Да      Да      ngx_cpuinfo.c
+Да  Да      Да      ngx_crc.h
+Да  Да      Да      ngx_crc32.c
+Да  Да      Да      ngx_crc32.h
+Да  Да      Да      ngx_crypt.c
+Да  Да      Да      ngx_crypt.h
+Да  Да      Да      ngx_cycle.c
+Да  Да      Да      ngx_cycle.h
+Да  Да      Да      ngx_file.c
+Да  Да      Да      ngx_file.h
+Да  Да      Да      ngx_hash.c
+Да  Да      Да      ngx_hash.h
+Да  Да      Да      ngx_inet.c
+Да  Да      Да      ngx_inet.h
+Да  Да      Да      ngx_list.c
+Да  Да      Да      ngx_list.h
+Да  Да      Да      ngx_log.c
+Да  Да      Да      ngx_log.h
+Да  Да      Да      ngx_md5.c
+Да  Да      Да      ngx_md5.h
+Да  Да      Да      ngx_memcache.c
+Да  Да      Да      ngx_memcache.h
+Да  Да      Да      ngx_murmurhash.c
+Да  Да      Да      ngx_murmurhash.h
+Да  Да      Да      ngx_open_file_cache.c
+Да  Да      Да      ngx_open_file_cache.h
+Да  Да      Да      ngx_output_chain.c
+Да  Да      Да      ngx_palloc.c
+Да  Да      Да      ngx_palloc.h
+Да  Да      Да      ngx_parse.c
+Да  Да      Да      ngx_parse.h
+Да  Да      Да      ngx_queue.c
+Да  Да      Да      ngx_queue.h
+Да  Да      Да      ngx_radix_tree.c
+Да  Да      Да      ngx_radix_tree.h
+Да  Да      Да      ngx_rbtree.c
+Да  Да      Да      ngx_rbtree.h
+Да  Да      Да      ngx_regex.c
+Да  Да      Да      ngx_regex.h
+Да  Да      Да      ngx_resolver.c
+Да  Да      Да      ngx_resolver.h
+Да  Да      Да      ngx_sha1.h
+Да  Да      Да      ngx_shmtx.c
+Да  Да      Да      ngx_shmtx.h
+Да  Да      Да      ngx_slab.c
+Да  Да      Да      ngx_slab.h
+Да  Да      Да      ngx_spinlock.c
+Да  Да      Да      ngx_string.c
+Да  Да      Да      ngx_string.h
+Да  Да      Да      ngx_times.c
+Да  Да      Да      ngx_times.h
+Да  Да      Да      ngx_zm_lookup.c
+Да  Да      Да      ngx_zm_lookup.h
+Да  Да      Да      
+Да  Да      ДеДЯevent
+Да  Да      Да  Да  ngx_event.c
+Да  Да      Да  Да  ngx_event.h
+Да  Да      Да  Да  ngx_event_accept.c
+Да  Да      Да  Да  ngx_event_busy_lock.c
+Да  Да      Да  Да  ngx_event_busy_lock.h
+Да  Да      Да  Да  ngx_event_connect.c
+Да  Да      Да  Да  ngx_event_connect.h
+Да  Да      Да  Да  ngx_event_mutex.c
+Да  Да      Да  Да  ngx_event_openssl.c
+Да  Да      Да  Да  ngx_event_openssl.h
+Да  Да      Да  Да  ngx_event_pipe.c
+Да  Да      Да  Да  ngx_event_pipe.h
+Да  Да      Да  Да  ngx_event_posted.c
+Да  Да      Да  Да  ngx_event_posted.h
+Да  Да      Да  Да  ngx_event_timer.c
+Да  Да      Да  Да  ngx_event_timer.h
+Да  Да      Да  Да  
+Да  Да      Да  ДдДЯmodules
+Да  Да      Да          ngx_aio_module.c
+Да  Да      Да          ngx_devpoll_module.c
+Да  Да      Да          ngx_epoll_module.c
+Да  Да      Да          ngx_eventport_module.c
+Да  Да      Да          ngx_kqueue_module.c
+Да  Да      Да          ngx_poll_module.c
+Да  Да      Да          ngx_rtsig_module.c
+Да  Да      Да          ngx_select_module.c
+Да  Да      Да          ngx_win32_select_module.c
+Да  Да      Да          
+Да  Да      ДеДЯhttp
+Да  Да      Да  Да  ngx_http.c
+Да  Да      Да  Да  ngx_http.h
+Да  Да      Да  Да  ngx_http_busy_lock.c
+Да  Да      Да  Да  ngx_http_busy_lock.h
+Да  Да      Да  Да  ngx_http_cache.h
+Да  Да      Да  Да  ngx_http_config.h
+Да  Да      Да  Да  ngx_http_copy_filter_module.c
+Да  Да      Да  Да  ngx_http_core_module.c
+Да  Да      Да  Да  ngx_http_core_module.h
+Да  Да      Да  Да  ngx_http_file_cache.c
+Да  Да      Да  Да  ngx_http_header_filter_module.c
+Да  Да      Да  Да  ngx_http_parse.c
+Да  Да      Да  Да  ngx_http_parse_time.c
+Да  Да      Да  Да  ngx_http_postpone_filter_module.c
+Да  Да      Да  Да  ngx_http_request.c
+Да  Да      Да  Да  ngx_http_request.h
+Да  Да      Да  Да  ngx_http_request_body.c
+Да  Да      Да  Да  ngx_http_script.c
+Да  Да      Да  Да  ngx_http_script.h
+Да  Да      Да  Да  ngx_http_special_response.c
+Да  Да      Да  Да  ngx_http_upstream.c
+Да  Да      Да  Да  ngx_http_upstream.h
+Да  Да      Да  Да  ngx_http_upstream_round_robin.c
+Да  Да      Да  Да  ngx_http_upstream_round_robin.h
+Да  Да      Да  Да  ngx_http_variables.c
+Да  Да      Да  Да  ngx_http_variables.h
+Да  Да      Да  Да  ngx_http_write_filter_module.c
+Да  Да      Да  Да  
+Да  Да      Да  ДдДЯmodules
+Да  Да      Да      Да  ngx_http_access_module.c
+Да  Да      Да      Да  ngx_http_addition_filter_module.c
+Да  Да      Да      Да  ngx_http_auth_basic_module.c
+Да  Да      Да      Да  ngx_http_autoindex_module.c
+Да  Да      Да      Да  ngx_http_browser_module.c
+Да  Да      Да      Да  ngx_http_charset_filter_module.c
+Да  Да      Да      Да  ngx_http_chunked_filter_module.c
+Да  Да      Да      Да  ngx_http_dav_module.c
+Да  Да      Да      Да  ngx_http_degradation_module.c
+Да  Да      Да      Да  ngx_http_empty_gif_module.c
+Да  Да      Да      Да  ngx_http_fastcgi_module.c
+Да  Да      Да      Да  ngx_http_flv_module.c
+Да  Да      Да      Да  ngx_http_geoip_module.c
+Да  Да      Да      Да  ngx_http_geo_module.c
+Да  Да      Да      Да  ngx_http_gzip_filter_module.c
+Да  Да      Да      Да  ngx_http_gzip_static_module.c
+Да  Да      Да      Да  ngx_http_headers_filter_module.c
+Да  Да      Да      Да  ngx_http_image_filter_module.c
+Да  Да      Да      Да  ngx_http_index_module.c
+Да  Да      Да      Да  ngx_http_limit_conn_module.c
+Да  Да      Да      Да  ngx_http_limit_req_module.c
+Да  Да      Да      Да  ngx_http_log_module.c
+Да  Да      Да      Да  ngx_http_map_module.c
+Да  Да      Да      Да  ngx_http_memcached_module.c
+Да  Да      Да      Да  ngx_http_mp4_module.c
+Да  Да      Да      Да  ngx_http_not_modified_filter_module.c
+Да  Да      Да      Да  ngx_http_proxy_module.c
+Да  Да      Да      Да  ngx_http_random_index_module.c
+Да  Да      Да      Да  ngx_http_range_filter_module.c
+Да  Да      Да      Да  ngx_http_realip_module.c
+Да  Да      Да      Да  ngx_http_referer_module.c
+Да  Да      Да      Да  ngx_http_rewrite_module.c
+Да  Да      Да      Да  ngx_http_scgi_module.c
+Да  Да      Да      Да  ngx_http_secure_link_module.c
+Да  Да      Да      Да  ngx_http_split_clients_module.c
+Да  Да      Да      Да  ngx_http_ssi_filter_module.c
+Да  Да      Да      Да  ngx_http_ssi_filter_module.h
+Да  Да      Да      Да  ngx_http_ssl_module.c
+Да  Да      Да      Да  ngx_http_ssl_module.h
+Да  Да      Да      Да  ngx_http_static_module.c
+Да  Да      Да      Да  ngx_http_stub_status_module.c
+Да  Да      Да      Да  ngx_http_sub_filter_module.c
+Да  Да      Да      Да  ngx_http_upstream_ip_hash_module.c
+Да  Да      Да      Да  ngx_http_upstream_keepalive_module.c
+Да  Да      Да      Да  ngx_http_upstream_zmauth_module.c
+Да  Да      Да      Да  ngx_http_upstream_zmauth_module.h
+Да  Да      Да      Да  ngx_http_userid_filter_module.c
+Да  Да      Да      Да  ngx_http_uwsgi_module.c
+Да  Да      Да      Да  ngx_http_xslt_filter_module.c
+Да  Да      Да      Да  ngx_http_zm_sso_module.c
+Да  Да      Да      Да  ngx_http_zm_sso_module.h
+Да  Да      Да      Да  
+Да  Да      Да      ДдДЯperl
+Да  Да      Да              Makefile.PL
+Да  Да      Да              nginx.pm
+Да  Да      Да              nginx.xs
+Да  Да      Да              ngx_http_perl_module.c
+Да  Да      Да              ngx_http_perl_module.h
+Да  Да      Да              typemap
+Да  Да      Да              
+Да  Да      ДеДЯmail
+Да  Да      Да      ngx_mail.c
+Да  Да      Да      ngx_mail.h
+Да  Да      Да      ngx_mail_auth_http_module.c
+Да  Да      Да      ngx_mail_core_module.c
+Да  Да      Да      ngx_mail_handler.c
+Да  Да      Да      ngx_mail_imap_handler.c
+Да  Да      Да      ngx_mail_imap_module.c
+Да  Да      Да      ngx_mail_imap_module.h
+Да  Да      Да      ngx_mail_parse.c
+Да  Да      Да      ngx_mail_pop3_handler.c
+Да  Да      Да      ngx_mail_pop3_module.c
+Да  Да      Да      ngx_mail_pop3_module.h
+Да  Да      Да      ngx_mail_proxy_module.c
+Да  Да      Да      ngx_mail_smtp_handler.c
+Да  Да      Да      ngx_mail_smtp_module.c
+Да  Да      Да      ngx_mail_smtp_module.h
+Да  Да      Да      ngx_mail_ssl_module.c
+Да  Да      Да      ngx_mail_ssl_module.h
+Да  Да      Да      ngx_mail_throttle_module.c
+Да  Да      Да      ngx_mail_throttle_module.h
+Да  Да      Да      ngx_mail_zmauth_module.c
+Да  Да      Да      ngx_mail_zmauth_module.h
+Да  Да      Да      
+Да  Да      ДеДЯmisc
+Да  Да      Да      ngx_cpp_test_module.cpp
+Да  Да      Да      ngx_google_perftools_module.c
+Да  Да      Да      
+Да  Да      ДдДЯos
+Да  Да          ДдДЯunix
+Да  Да                  ngx_aio_read.c
+Да  Да                  ngx_aio_read_chain.c
+Да  Да                  ngx_aio_write.c
+Да  Да                  ngx_aio_write_chain.c
+Да  Да                  ngx_alloc.c
+Да  Да                  ngx_alloc.h
+Да  Да                  ngx_atomic.h
+Да  Да                  ngx_channel.c
+Да  Да                  ngx_channel.h
+Да  Да                  ngx_daemon.c
+Да  Да                  ngx_darwin.h
+Да  Да                  ngx_darwin_config.h
+Да  Да                  ngx_darwin_init.c
+Да  Да                  ngx_darwin_sendfile_chain.c
+Да  Да                  ngx_errno.c
+Да  Да                  ngx_errno.h
+Да  Да                  ngx_files.c
+Да  Да                  ngx_files.h
+Да  Да                  ngx_file_aio_read.c
+Да  Да                  ngx_freebsd.h
+Да  Да                  ngx_freebsd_config.h
+Да  Да                  ngx_freebsd_init.c
+Да  Да                  ngx_freebsd_rfork_thread.c
+Да  Да                  ngx_freebsd_rfork_thread.h
+Да  Да                  ngx_freebsd_sendfile_chain.c
+Да  Да                  ngx_gcc_atomic_amd64.h
+Да  Да                  ngx_gcc_atomic_ppc.h
+Да  Да                  ngx_gcc_atomic_sparc64.h
+Да  Да                  ngx_gcc_atomic_x86.h
+Да  Да                  ngx_linux.h
+Да  Да                  ngx_linux_aio_read.c
+Да  Да                  ngx_linux_config.h
+Да  Да                  ngx_linux_init.c
+Да  Да                  ngx_linux_sendfile_chain.c
+Да  Да                  ngx_os.h
+Да  Да                  ngx_posix_config.h
+Да  Да                  ngx_posix_init.c
+Да  Да                  ngx_process.c
+Да  Да                  ngx_process.h
+Да  Да                  ngx_process_cycle.c
+Да  Да                  ngx_process_cycle.h
+Да  Да                  ngx_pthread_thread.c
+Да  Да                  ngx_readv_chain.c
+Да  Да                  ngx_recv.c
+Да  Да                  ngx_send.c
+Да  Да                  ngx_setaffinity.c
+Да  Да                  ngx_setaffinity.h
+Да  Да                  ngx_setproctitle.c
+Да  Да                  ngx_setproctitle.h
+Да  Да                  ngx_shmem.c
+Да  Да                  ngx_shmem.h
+Да  Да                  ngx_socket.c
+Да  Да                  ngx_socket.h
+Да  Да                  ngx_solaris.h
+Да  Да                  ngx_solaris_config.h
+Да  Да                  ngx_solaris_init.c
+Да  Да                  ngx_solaris_sendfilev_chain.c
+Да  Да                  ngx_sunpro_amd64.il
+Да  Да                  ngx_sunpro_atomic_sparc64.h
+Да  Да                  ngx_sunpro_sparc64.il
+Да  Да                  ngx_sunpro_x86.il
+Да  Да                  ngx_thread.h
+Да  Да                  ngx_time.c
+Да  Да                  ngx_time.h
+Да  Да                  ngx_udp_recv.c
+Да  Да                  ngx_user.c
+Да  Да                  ngx_user.h
+Да  Да                  ngx_writev_chain.c
+Да  Да                  rfork_thread.S
+Да  Да                  
+Да  ДеДЯpatches
+Да  Да      osx-keepalive.patch
+Да  Да      
+Да  ДдДЯsrc
+Да          chunkin-nginx-module-0.23rc2.tar.gz
+Да          nviennot-nginx-tcp-keepalive-4d7186d.tar.gz
+Да          
+ДеДЯopendkim
+Да  Да  Makefile
+Да  Да  
+Да  ДеДЯpatches
+Да  Да      keygen.patch
+Да  Да      mdb.patch
+Да  Да      
+Да  ДдДЯsrc
+Да          opendkim-2.7.1.tar.gz
+Да          
+ДеДЯopenjdk
+Да  ДдДЯsrc
+Да          openjdk-7u2-fcs-src-b13-17_nov_2011.zip
+Да          
+ДеДЯopenldap
+Да  Да  Makefile
+Да  Да  
+Да  ДеДЯpatches
+Да  Да      freelist.patch
+Да  Да      ITS5037.patch
+Да  Да      ITS7416.patch
+Да  Да      ITS7432.patch
+Да  Да      ITS7452.patch
+Да  Да      ITS7455.patch
+Да  Да      ITS7465.patch
+Да  Да      ITS7467.patch
+Да  Да      leopard.fix
+Да  Да      mdb-diff.patch
+Да  Да      
+Да  ДдДЯsrc
+Да          openldap-2.4.33.tgz
+Да          
+ДеДЯopenssl
+Да  Да  Makefile
+Да  Да  
+Да  ДдДЯsrc
+Да          openssl-1.0.1c.tar.gz
+Да          
+ДеДЯPerl
+Да  Да  Array-Compare-1.17.tar.gz
+Да  Да  BerkeleyDB-0.43.tar.gz
+Да  Да  Crypt-OpenSSL-Random-0.04.tar.gz
+Да  Да  Crypt-OpenSSL-RSA-0.27.tar.gz
+Да  Да  Crypt-SSLeay-0.58.tar.gz
+Да  Да  DBD-mysql-4.020.tar.gz
+Да  Да  Mail-SpamAssassin-3.3.2.tar.gz
+Да  Да  Mail-SpamAssassin-3.4.0-beta1.tar.gz
+Да  Да  Mail-SPF-v2.008.tar.gz
+Да  Да  Makefile
+Да  Да  MyConfig.pm
+Да  Да  MyConfig.pm.template
+Да  Да  Net-LDAPapi-3.0.3.tar.gz
+Да  Да  Net-Server-2.002.tar.gz
+Да  Да  Net-Server-2.005.tar.gz
+Да  Да  Net-SSLeay-1.36.tar.gz
+Да  Да  perl-ldap-0.44.tar.gz
+Да  Да  swatch-3.2.3.tar.gz
+Да  Да  XML-Parser-2.40.tar.gz
+Да  Да  XML-Parser-2.41.tar.gz
+Да  Да  zmcheckbuiltmodules.pl
+Да  Да  ZMQ-Constants-1.00.tar.gz
+Да  Да  ZMQ-LibZMQ3-1.00.tar.gz
+Да  Да  
+Да  ДдДЯpatches
+Да          net-ldap-ipv6.patch
+Да          net-server-localhost.patch
+Да          zmq-make.patch
+Да          
+ДеДЯphp
+Да  Да  Makefile
+Да  Да  
+Да  ДдДЯsrc
+Да          php-5.3.10.tar.bz2
+Да          php-5.4.4.tar.bz2
+Да          php-5.4.6.tar.bz2
+Да          
+ДеДЯpostfix
+Да  Да  Makefile
+Да  Да  
+Да  ДеДЯpatches
+Да  Да      interface.patch
+Да  Да      postconf-X.patch
+Да  Да      postfix-ldap.patch
+Да  Да      postfix-main-cf-zimbra.patch
+Да  Да      postfix-no-bdb.patch
+Да  Да      postfix-zimbra-bdb.patch
+Да  Да      
+Да  ДдДЯsrc
+Да          postfix-2.10-20121007.tar.gz
+Да          
+ДеДЯprism
+Да  ДеДЯpatches
+Да  Да      linux.diff
+Да  Да      mac.diff
+Да  Да      prism-1.0b8-090211-vmware-src.zip
+Да  Да      win32.diff
+Да  Да      
+Да  ДдДЯsrc
+Да          prism-1.0b8-090211-src.zip
+Да          
+ДеДЯrrdtool
+Да  Да  Makefile
+Да  Да  
+Да  ДеДЯpatches
+Да  Да      libtoolize.patch
+Да  Да      
+Да  ДдДЯsrc
+Да          freetype-2.4.9.tar.gz
+Да          libart_lgpl-2.3.21.tar.bz2
+Да          libpng-1.5.10.tar.gz
+Да          rrdtool-1.2.30.tar.gz
+Да          
+ДеДЯrsync
+Да  Да  Makefile
+Да  Да  
+Да  ДдДЯsrc
+Да          rsync-3.0.8.tar.gz
+Да          rsync-3.0.9.tar.gz
+Да          
+ДеДЯsendmail
+Да  Да  Makefile
+Да  Да  
+Да  ДеДЯpatches
+Да  Да      ipv6.patch
+Да  Да      
+Да  ДдДЯsrc
+Да          sendmail.8.14.3.tar.gz
+Да          sendmail.8.14.5.tar.gz
+Да          
+ДеДЯsnmp
+Да  Да  Makefile
+Да  Да  
+Да  ДдДЯsrc
+Да          net-snmp-5.7.1.tar.gz
+Да          
+ДеДЯtcmalloc
+Да  Да  Makefile
+Да  Да  
+Да  ДеДЯpatches
+Да  Да      tcmalloc-build-fix.patch
+Да  Да      
+Да  ДдДЯsrc
+Да          gperftools-2.0.tar.gz
+Да          
+ДдДЯzeromq
+    Да  Makefile
+    Да  
+    ДеДЯpatches
+    Да      newline.patch
+    Да      
+    ДдДЯsrc
+            zeromq-3.2.0.tar.gz
+            
